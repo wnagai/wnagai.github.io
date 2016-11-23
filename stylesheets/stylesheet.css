@@ -135,7 +135,8 @@ strong {
 }
 
 img {
-  position: relative;
+  position:relative;
+  align-self: center;
   margin: 0 auto;
   max-width: 739px;
   padding: 5px;
