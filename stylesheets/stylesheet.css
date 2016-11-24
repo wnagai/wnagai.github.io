@@ -237,7 +237,8 @@ hr {
 table {
   border: 1px solid #373737;
   margin-bottom: 20px;
-  text-align: left;
+  text-align: center;
+  width: 100%;
  }
 
 th {
@@ -368,8 +369,6 @@ Full-Width Styles
 #footer_wrap {
   background: #212121;
 }
-
-
 
 /*******************************************************************************
 Small Device Styles
